@@ -25,6 +25,7 @@ Currently I am running my own company, JRB IT focused on Active Directory and in
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="Gitpod" height="25" src="images/gitpod.png"></code>
   <code><img title="Jetbrains" height="25" src="images/jetbrains.png"></code>
+  <code><img title="Android" height="25" src="images/jetbrains.svg"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
