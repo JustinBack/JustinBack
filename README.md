@@ -22,6 +22,7 @@ Currently I am running my own company, JRB IT focused on Active Directory and in
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="Gitpod" height="25" src="images/gitpod.png"></code>
   <code><img title="Jetbrains" height="25" src="images/jetbrains.png"></code>
