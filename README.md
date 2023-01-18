@@ -11,19 +11,28 @@ Currently I am running my own company, JRB IT focused on Active Directory and in
 
 **Languages and Tools:** 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/-Postgresql-black?logo=postgresql&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-black?logo=gitlab&style=social)&nbsp;&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-black?logo=typescript&style=social)&nbsp;&nbsp;
-![C#](https://img.shields.io/badge/-C%23-black?logo=csharp&style=social)&nbsp;&nbsp;
 
+
+<p align="center">
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="Gitpod" height="25" src="images/gitpod.png"></code>
+  <code><img title="Jetbrains" height="25" src="images/jetbrains.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+</p>
 
 
 <a href="https://github.com/justinback">
