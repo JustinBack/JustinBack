@@ -1,13 +1,14 @@
-### Hi there 👋, I am [Justin Back](https://justinback.de/)!
+### Hi there 👋, I am [Justin Back](https://justinback.de/) ...
 
-I'm Justin Back, a software developer with 10+ years of experience in PHP and SQL flavored to Postgresql. I'm also proficient in CSS, JS, TS, and C#. I'm always looking for a challenge and excited to dive into new projects. Feel free to check out my website for more information.
-Currently I am running my own company, JRB IT focused on Active Directory and indivdual Software Development. (We also maintain a large PHP Framework/CMS!)
+... a software developer with 10+ years of experience in PHP and SQL flavored to Postgresql. I'm also proficient in CSS, JS, TS, and C#. I'm always looking for a challenge and excited to dive into new projects. Feel free to check out my website for more information.
+Currently I am running my own company, JRB IT focused on Active Directory and indivdual Software Development. (We also maintain a large PHP Framework/CMS!). Recently I have started working on AI related projects, check them out!
 
 
 
 - 💬 Brainstorm with me over tech and music 
 - 📫 How to reach me: kontakt@justinback.de
 - 😄 Pronouns: he/him
+- 🤖 Working on AI
 
 ![Profile views](https://gpvc.arturio.dev/justinback)  
 
